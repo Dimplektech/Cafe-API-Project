@@ -1,6 +1,6 @@
 # Cafe API Project
 
-This project is a Flask-based API for managing a database of cafes. The API allows users to retrieve information about cafes, search for cafes by location, fetch a random cafe, update cafe details, and add or delete cafes securely.
+This project is a Flask-based API for managing a database of cafes. The API allows users to retrieve information about cafes, search for cafes by location, fetch a random cafe, update cafe details, and add or delete cafes securely.You can use [Postman](https://www.postman.com/) to test the API endpoints
 
 ## Features
 
@@ -40,7 +40,7 @@ project/
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Dimplektech/Cafe-API-Project
    cd project
    ```
 
